@@ -1,3 +1,5 @@
+//Shahrukh Gizabi
+
 public class ArraySumDriver {
 	private final static int ARRAY_SIZE = 6;
 	static int[] fibonnaci = new int[500]; 
